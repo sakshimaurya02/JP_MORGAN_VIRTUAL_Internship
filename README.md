@@ -24,5 +24,5 @@ I worked on, <br>
 <code>technical communication</code>&nbsp&nbsp<code>financial analysis</code>&nbsp&nbsp<code>web applications</code>
 <h2>My Certificate of Completion</h2>
 
-<img src="https://github.com/sakshimaurya02/JP_MORGAN_VIRTUAL_Internship/blob/main/Jp_morgan.png?raw=true" alt="ss">>
+<img src="https://github.com/sakshimaurya02/JP_MORGAN_VIRTUAL_Internship/blob/main/Jp_morgan.png?raw=true" alt="ss">
 
